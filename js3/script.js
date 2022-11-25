@@ -10,6 +10,6 @@ for (let i = 0; i < 10; i++) {
     somma += newArray[i];
     average = somma / 10;
 }
-
+console.log(somma);
 console.log(average);
 
