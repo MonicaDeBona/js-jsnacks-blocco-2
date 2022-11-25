@@ -11,7 +11,9 @@ for (let i = 0; i < 6; i++) {
     number = parseInt(prompt('Inserisci un numero'));
     if (number%2 === 1) {
         newArray.push(number);
-        console.log(newArray);
+        
     }
 }
+
+console.log(newArray);
 
