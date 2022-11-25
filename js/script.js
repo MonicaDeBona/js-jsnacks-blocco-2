@@ -7,7 +7,7 @@ const newArray = [ ]
 
 
 
-for (let i = 0; i < 10; i++) {
+for (let i = 0; i < 6; i++) {
     number = parseInt(prompt('Inserisci un numero'));
     if (number%2 === 1) {
         newArray.push(number);
